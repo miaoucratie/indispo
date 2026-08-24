@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "basePath": "/indispo",
+  "entrypoint": "/indispo/_expo/static/js/web/entry-07baa2e84eaec18975a0ef1c3d3b77e9.js",
+  "entrypointSha256": "c9436df225e8b99250df6ac914ecbbb66ae4e66f60a9d39e4e30df31af09f3bd",
+  "apiBase": "https://miaoucratie-reservation-api.miaoucratie.workers.dev/admin",
+  "relayBase": "https://miaoucratie-admin.replit.app/api/miaou"
+}
