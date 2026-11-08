@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "basePath": "/indispo",
-  "entrypoint": "/indispo/_expo/static/js/web/entry-c1b7321ba734627c4512570749a88951.js",
-  "entrypointSha256": "14da898ababe9f42471615141b92b564800964fc6c908a6d5d4bf0a8cdaf8586",
+  "entrypoint": "/indispo/_expo/static/js/web/entry-a0ad26bd4ae2a33a2bfd77d496669e6a.js",
+  "entrypointSha256": "234e8bccf7b6f5eb57d2969cd06afb9df399364968e0e7a0054f6b7bad0b7fba",
   "apiBase": "https://miaoucratie-reservation-api.miaoucratie.workers.dev/admin",
   "relayBase": "https://miaoucratie-reservation-api.miaoucratie.workers.dev/admin"
 }
